@@ -1,0 +1,32 @@
+[
+  {
+    "id": "user1",
+    "userName": "johnDoe23",
+    "name": "John Doe",
+    "emailAddress": "johndoe@gmail.com"
+  },
+  {
+    "id": "user2",
+    "userName": "lisaJames12",
+    "name": "Lisa James",
+    "emailAddress": "lisajames@gmail.com"
+  },
+  {
+    "id": "user3",
+    "userName": "stevenAdler16",
+    "name": "Steven Adler",
+    "emailAddress": "stevenadler@gmail.com"
+  },
+  {
+    "id": "user4",
+    "userName": "markNoble234",
+    "name": "Mark Noble",
+    "emailAddress": "marknoble@gmail.com"
+  },
+  {
+    "id": "user5",
+    "userName": "hackeo420",
+    "name": "Hackeo Bro",
+    "emailAddress": "hackeobro@gmail.com"
+  }
+]

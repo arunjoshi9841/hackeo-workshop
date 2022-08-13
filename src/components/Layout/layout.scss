@@ -1,0 +1,24 @@
+@import '../../assets/styles/breakpoints.scss';
+.layout-container {
+    width: 100%;
+    min-height: 100vh;           
+    background-color: #f1f2ec;
+    overflow: hidden;
+    box-sizing: border-box;
+    .content {
+        max-width: $screen-desktop-lg;
+        margin: 0 auto;
+        width: 100%;
+        padding: 8px;
+        overflow: auto;
+        @include mobile-up {
+            padding: 24px 16px;
+        }
+        @include tablet-up {
+            padding: 48px 24px;
+        }
+        @include desktop-lg-up {
+            padding: 64px 24px;
+        }
+    }
+}

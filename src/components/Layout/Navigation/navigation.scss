@@ -1,0 +1,29 @@
+@import "../../../assets/styles/breakpoints.scss";
+.navigation {
+  .nav-container {
+    max-width: $screen-desktop-lg;
+    padding: 16px 8px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @include mobile-up {
+      padding: 16px;
+    }
+    @include tablet-up {
+      padding: 16px 24px;
+    }
+  }
+  .logo-container {
+    width: 240px;
+    &:hover {
+      opacity: 0.7;
+    }
+    svg {
+      width: 240px;
+    }
+  }
+  .account-info {
+    color: white;
+  }
+}

@@ -1,0 +1,55 @@
+$primary: #5F994E;
+.bg-primary {
+    background-color: $primary;
+}
+.color-primary {
+    color: $primary;
+}
+
+$secondary: #E29531;
+.bg-orange {
+    background-color: $secondary;
+}
+.color-orange {
+    color: $secondary;
+}
+
+$tertiary: #1f2937;
+.bg-tertiary {
+    background-color: $tertiary;
+}
+.color-tertiary {
+    color: $tertiary;
+}
+
+$error: #B00020;
+.bg-error {
+    background-color: $error;
+}
+.color-error {
+    color: $error;
+}
+
+$success: #28A745;
+.bg-success {
+    background-color: $success;
+}
+.color-success {
+    color: $success;
+}
+
+$info: #007BFF;
+.bg-info {
+    background-color: $info;
+}
+.color-info {
+    color: $info;
+}
+
+$warning: #FFC107;
+.bg-warning {
+    background-color: $warning;
+}
+.color-warning {
+    color: $warning;
+}
