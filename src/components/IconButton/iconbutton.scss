@@ -1,0 +1,18 @@
+.icon-button {
+    margin: 6px;
+    padding: 8px;
+    &:hover,
+    &:focus {
+        opacity: 0.8;
+        cursor: pointer;
+        border-radius: 50%;
+        width: fit-content;
+        background-color: rgba(0, 0, 0, 0.02);
+        transform: scale(1.1);
+    }
+    .icon {
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+    }
+}

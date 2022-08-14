@@ -1,0 +1,22 @@
+@import '../../assets/styles/breakpoints.scss';
+
+.paper {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    position: relative;
+    border-radius: 8px;
+    @include mobile-only {
+        padding: 14px;
+    }
+    @include tablet-down {
+        padding: 16px;
+    }
+    @include tablet-only {
+        padding: 28px;
+    }
+    @include tablet-up {
+        padding: 36px;
+    }
+    @include desktop-lg-up {
+        padding: 40px;
+    }
+}

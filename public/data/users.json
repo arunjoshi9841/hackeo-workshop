@@ -3,30 +3,42 @@
     "id": "user1",
     "userName": "johnDoe23",
     "name": "John Doe",
-    "emailAddress": "johndoe@gmail.com"
+    "emailAddress": "johndoe@gmail.com",
+    "profilePic": "https://i.pravatar.cc/360?img=1"
   },
   {
     "id": "user2",
     "userName": "lisaJames12",
     "name": "Lisa James",
-    "emailAddress": "lisajames@gmail.com"
+    "emailAddress": "lisajames@gmail.com",
+    "profilePic": "https://i.pravatar.cc/360?img=2"
   },
   {
     "id": "user3",
     "userName": "stevenAdler16",
     "name": "Steven Adler",
-    "emailAddress": "stevenadler@gmail.com"
+    "emailAddress": "stevenadler@gmail.com",
+    "profilePic": "https://i.pravatar.cc/360?img=3"
   },
   {
     "id": "user4",
     "userName": "markNoble234",
     "name": "Mark Noble",
-    "emailAddress": "marknoble@gmail.com"
+    "emailAddress": "marknoble@gmail.com",
+    "profilePic": "https://i.pravatar.cc/360?img=4"
   },
   {
     "id": "user5",
     "userName": "hackeo420",
     "name": "Hackeo Bro",
-    "emailAddress": "hackeobro@gmail.com"
+    "emailAddress": "hackeobro@gmail.com",
+    "profilePic": "https://i.pravatar.cc/360?img=5"
+  },  
+  {
+    "id": "user6",
+    "userName": "testuser5",
+    "name": "Test User",
+    "emailAddress": "testUser@gmail.com",
+    "profilePic": ""
   }
 ]

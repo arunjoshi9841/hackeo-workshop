@@ -1,9 +1,14 @@
 @import './theme.scss';
+@import './font.scss';
 main {
     position: absolute;
     top: 0;
     left: 0;
     width: 100vw;
     height: 100vh;
-    overflow: hidden;
+    overflow-x: hidden;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
 }

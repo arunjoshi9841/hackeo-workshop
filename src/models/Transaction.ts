@@ -5,6 +5,7 @@ type Transaction = {
     senderName: string;
     amount: number;
     comment: string;
+    senderPic?: string;
     dateCreated: string;
 }
 export default Transaction;
